@@ -1,0 +1,20 @@
+﻿  Assembling AclEdit.asm...
+AclEdit.asm(1): error A2013: .MODEL must precede this directive
+AclEdit.asm(3): error A2034: must be in segment block : EditAcl
+AclEdit.asm(4): error A2034: must be in segment block
+AclEdit.asm(5): error A2034: must be in segment block
+AclEdit.asm(6): error A2034: must be in segment block
+AclEdit.asm(7): error A2034: must be in segment block
+AclEdit.asm(8): error A2034: must be in segment block
+AclEdit.asm(9): error A2034: must be in segment block
+AclEdit.asm(10): error A2034: must be in segment block
+AclEdit.asm(11): error A2034: must be in segment block
+AclEdit.asm(12): error A2034: must be in segment block
+AclEdit.asm(13): error A2034: must be in segment block
+AclEdit.asm(14): error A2034: must be in segment block
+AclEdit.asm(15): error A2034: must be in segment block
+AclEdit.asm(16): error A2034: must be in segment block
+AclEdit.asm(17): error A2034: must be in segment block
+AclEdit.asm(18): error A2034: must be in segment block
+AclEdit.asm(19): fatal error A1010: unmatched block nesting : EditAcl
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\AclEdit.obj" /W3 /errorReport:prompt  /TaAclEdit.asm" exited with code 1.
